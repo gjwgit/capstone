@@ -1,6 +1,8 @@
 Capstone Machine Learning
 =========================
 
+This machine learning methodology is being developed by Tony Nolan.
+
 Capstone is based on the idea that variables having a common/similar
 focus can be grouped together to have greater impact on a model than
 they would as separate inputs. Variables are then re-scaled and are
